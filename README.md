@@ -13,4 +13,4 @@ To start the second stage pretraining, run `step2.sh`.
 
 To finetune and evaluate on downstream data, run `step3.sh`
 
-
+The complete evaluation datasets and pretrained model will be released soon.
