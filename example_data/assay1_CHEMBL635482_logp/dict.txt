@@ -1,0 +1,14 @@
+[PAD]
+[CLS]
+[SEP]
+[UNK]
+C
+N
+O
+S
+H
+Cl
+F
+Br
+I
+P
